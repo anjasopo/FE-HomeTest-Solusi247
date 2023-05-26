@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.custom-container {
+    width: 60%;
+    padding: 1rem;
+}
+
+input {
+    width: 100px;
+}
+
+.tab-pane {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.disabled {
+    cursor: not-allowed;
+}
